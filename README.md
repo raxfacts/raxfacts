@@ -14,8 +14,6 @@
 > Nvim or die (vi still better) 💘
 > 
 > RUST > C 🧏‍♂️
-> 
-> Frontend for crackhead (no debate allowed) ☔
 
 > [!NOTE]
 > And no i dont have radical ideas im just spitting facts ;/ 🤷‍♂️
